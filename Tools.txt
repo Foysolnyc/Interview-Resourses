@@ -1,0 +1,30 @@
+                                                            Tools: 
+
+ 
+
+Manual Tools: Jira,   Rally,    ALM,     SQL,      API (Postman),  VQN , Connected Teller   and Nautilus. 
+
+ 
+
+
+
+
+
+*Jira: For Bug tracking and Bug Status.                             ( Jira and Rally same) 
+
+*ALM (application Life cycle Management): To Manage team and run Test Cases Manually. 
+
+*VQN : To Validate and Compare Loan Data. 
+
+*Connected Teller: To Test all the Banking Transactions from AM to PM. 
+
+ 
+*Nautilus: To Import data, submit electronics and paper form , Retrieve data, Compare data, Index/ Re-Index Data. 
+
+ 
+
+ 
+
+ 
+
+*Automation Tools: Java, Selenium,Selenium Grid, Cucumber, GitHub and Genkins . (Framework: BDD & TDD)

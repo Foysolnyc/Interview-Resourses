@@ -1,0 +1,18 @@
+                                   Some Methods:
+
+ Scrum: TIME-Boxed Method with Process and Ceremonies for Agile Software Development
+             ( Used in development Projects)
+
+
+ Kanban: Method to Reduce work in Progress and ensure smooth flow of products in pipeline.
+         ( Used in maintenance Projects)
+
+
+Extreme programming: Defines a collection of Technical practices for quick development of quality software 
+which can lend itself to change.
+
+( used along with others flavors of Agile)
+
+Lean : Defines the process of Removal of waste in workflow.
+
+( Used in Manufacturing Environments)

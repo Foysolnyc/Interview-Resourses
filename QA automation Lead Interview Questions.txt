@@ -1,0 +1,25 @@
+                                                QA automation Lead Interview Questions :
+
+
+
+1.What type of Tools did you used in automation testing? Ans: Java, Selenium , Cucumber , Git and Genkins
+
+2. What was your Manual QA Process in your Last project?describe briefly.
+
+3.What was your Automation QA Process in your Last project? describe briefly.
+
+4. What Locators did you used most? Ans: ID , Name , Clss and Xpath.
+
+5.You are doing manual testing, If you need to automate all manual test cases in automation framework , what'll be your approch and what tools you'll choose?
+
+Ans: It is not posibble to automate all test cases. I'll select all test cases that is posibble to test in automation environment and choose all common tools.also
+ I'll train my team about new tools.
+
+6. Do you have any team lead experience? Ans : Yes, I have.
+
+
+7. Will you be able to lead onshore and offshore QA team? Yes.
+
+8. Your Interview is done, Do you have any questions for me? Ans: Yes: If I join in this Project, What is the learning opportunities I'll have?
+
+

@@ -1,0 +1,11 @@
+ Area where You need to be strong:
+
+Manual QA Process:  Excel, Jira , API & SQL
+
+QA Automation Process:  Java, Selenium and Cucumber, Jmeter( Performance Testing), BDD & TDD framework , Selenium Grid
+ Github and Genkins
+
+
+
+Extra ordinary Skills (*Mandatory): Patient, Dedication and Studies ( Comphrehensive knowledge in QA Process)
+

@@ -1,0 +1,22 @@
+QA Process:
+
+1. Our process start with story grooming meeting, where we gather all the customers requirements and user stories. We analyze them,
+then we follow in a plan as to which enviroment we can development and test. 
+
+2. Then We go to the sprint planning where we discuss about the time frame. Most of the time, we follow 2 weeks sprint cycles depending on how big the project is. 
+
+3. Then we go to the sprint review meeting and finalize the sprint.
+
+4. Then we go the sprint release stage, where we discuss about the incremental release. 
+
+
+
+Every morning my BA assigns work to my email and I run the test cases manually (functional test) and write it down on excel sheet and send it back to him/her.
+
+Whenever my BA say its valid test cases, then I upload them to ALM and run it manually. If all my test cases run manually on ALM, then its fine. 
+
+If any of test cases fail, I create a bug on ALM and assign it to the developer. 
+AFter developer fixes the bug then I run it again and make sure the bug is fixed and all my test cases passed.
+
+Then I start develop BDD framework.
+BDD Framework:

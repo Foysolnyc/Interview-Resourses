@@ -1,0 +1,13 @@
+Bounday Testing:
+
+
+   Boundary testing is the process of testing between
+ extreme ends or boundaries between partitions of the input values.
+
+ So these extreme ends like Start- End, Lower- Upper, Maximum-Minimum, 
+Just Inside-Just Outside values are called boundary values and the testing is called “boundary testing”	
+
+Job Description for Functional Tester:
+Functional testers collect and analyze data to reinforce proposed projects, systems requirements, 
+and business cases. These will include writing scripts and test plans to monitor errors and 
+fixes in product and software development, operational systems, and information systems

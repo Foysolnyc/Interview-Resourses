@@ -1,0 +1,27 @@
+ What is the diffrent between functional and non- functional testing?
+Ans: 
+Functional: Logging Credentials Such Username or password ( Valid / invalid)
+
+Non functional : payment, security  and authentication
+
+
+
+
+
+Most common functional Testing are
+
+
+UI Testing
+Smoke Testing
+Regression Testing
+Sanity Testing
+API Testing with postman tool ( Manual)
+UAT Testing
+
+
+
+* Positive Testing
+* Negative Testing
+
+ 
+ 

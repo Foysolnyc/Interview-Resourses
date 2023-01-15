@@ -1,0 +1,10 @@
+Feature: Amazon
+
+Scenario: amazon shopping
+
+Given I'm on amazon homepage
+Then I search laptop on search bar
+Then I click on Search bar
+Then I click on first item
+Then I click Recomindations From hello Sign In
+Then I close the browser

@@ -1,0 +1,22 @@
+                                                                Expert Level Interview Questions:
+
+
+   1. Describe your role and Responsibilities in your last project ?
+
+  2. What are the major tools did you use ( automation tool)?
+
+  3. Tell me about BDD framework & TDD Framework?
+
+  4. What is the Different between BDD framework and TDD Framework?
+
+ 5. Tell me about your experience on Github And Genkins?
+
+6. You need to run so many test cases together on multiple browsers such as Chrome, Firefox and Edge, how will you do that?
+Ans: By Using selenium Grid.
+
+7. How will you convince your Customer for choosing tools ?
+
+Ans: I'll suggest common tools to my customers so that my team can understand the tools easily and complete the sprint in shortest time.
+     I'll provide training to my team If needed( This is how I'll speak with my customer in meeting and convince him/her)
+ 
+  

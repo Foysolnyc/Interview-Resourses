@@ -1,0 +1,29 @@
+As you see on my  Resume , I have been working a QA 7+ years.
+
+I have done both Manual and automation.
+
+Over the years, I worked with different indestries.
+
+In different project I worked with Selenium WebDriver,Selenium Grid, Java, Cucumber , Maven, Github, Ghenkins , ALM ,Jira , Rally, Jmeter, SQL and API
+
+In most of my project, we  followed agile methodology, While I worked with agile, I had to perticipate in different meeting.
+
+I worked very closely with developer and Business Aynalist. I developed test cases , test scenarios and test data by using Gherkins and BDD approch.
+
+I love working as a QA. because it is a dynamic field and every day I have chance to learn something new.
+
+As a QA Automation engineer, Sometimes I had to create my own framwork, sometimes I worked with their existing framwork.
+
+As a senior QA , Sometimes I played leadership role, I  trained Junior QA about new tools and technologies.
+
+I'm team player, hard worker and highly technical.
+ 
+If needed I can work independently with minimum supervision.
+
+That's all about me Briefly . 
+
+If you have any specific question about this tools and technologies,
+ 
+You could go ahead and ask me, I'll answer them.
+
+Thank you.

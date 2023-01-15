@@ -1,0 +1,7 @@
+Selenium Grid:
+
+Selenium grid is a peralal test case execution tool
+ where we can run same test case in multiple devices.
+
+
+Also we can run multple Test Cases in same time on multiple browsers by using Selenium Grid.
