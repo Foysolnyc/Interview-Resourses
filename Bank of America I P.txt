@@ -1,0 +1,47 @@
+   BofA Interview Preparation
+
+1.Tell me about yourself
+
+2. Explain About framework in your last project( Major tools)?
+
+3. What was your role or daily activities?
+
+4. how did you collect data and where did you store your data?
+Ans: File Import stream and save on companise Git repository
+5. What bug tracking tool did you used and what tool you used to manage the team?
+
+6. How many selenium waits are available in selenium 
+and what's the defferent between tread sleeps and selenium waits?
+
+7. What is Inheritance?
+
+8. what is polymorphism , expain method overloading and overriding?
+
+9. How did you take screenshot in selenium in your last Project ?
+
+10. How did you drag and drop in Java and Selenium, Explain?
+
+11. How did you Copy Paste?
+
+12. How did you handle dropdown?
+
+13. How did you handle mosehover over class?
+
+14. How do you pass the value on empty field (EX; username , password and any credentials?
+
+15. how do you handle any challenging situation?
+
+16. What is the common error you faced in your framework, how did you solve?
+
+17. Do you have any database knowledge , Ex: API or SQL?
+
+18. What is Rest API and explain the GET, Post , Put And delete Method?
+
+19. What is SQL and What is SQL Commands?
+
+20. This interview has finished, Do you have any Question?
+21. What are the Selenium Exception / error ?
+Ans: No such element, Stale element, Element was not found
+22. How to handle multiple window popups in selenium?
+23. what is Performance Testing? (Tool : Jmeter+Java)
+ 
